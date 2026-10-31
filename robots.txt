@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://otlezhka.mix-smm.ru/sitemap.xml
+Host: otlezhka.mix-smm.ru
